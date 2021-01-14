@@ -8,6 +8,7 @@
         <servlet-name>FirstServlet</servlet-name>
         <servlet-class>com.example.demoservlet.FirstServlet</servlet-class>
     </servlet>
+
     <servlet-mapping>
         <servlet-name>FirstServlet</servlet-name>
         <url-pattern>/test</url-pattern>
